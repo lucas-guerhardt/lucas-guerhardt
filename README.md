@@ -4,7 +4,7 @@
 - 🎓 Formado em Ciência da Computação na Universidade Estadual de Maringá (UEM).
 - 📚 Atualmente estudando .NET.
   
-<a align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guerhardt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) </a>
+<a align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guerhardt&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) </a>
 ##
 
 ### 🛠️ Tecnologias e Ferramentas  

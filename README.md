@@ -14,8 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original-wordmark.svg" alt="Spring" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="DOTNET" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="DOTNET" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQLServer" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dot-net/dot-net-plain-wordmark.svg" alt="DOTNET" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="45" height="45"/>
 </p>
 

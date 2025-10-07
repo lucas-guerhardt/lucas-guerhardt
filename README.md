@@ -1,11 +1,19 @@
-## Ola! Eu sou Lucas Pinheiro 👋
+## Olá! Eu sou Lucas Pinheiro 👋
 
-- 💻 Desenvolvedor de software
-- 🎓 Formado em Ciência da Computação na Universidade Estadual de Maringá (UEM).
-- 📚 Atualmente estudando .NET.
+<p>
+  Sou formado em Ciência da Computação pela Universidade Estadual de Maringá e gosto muito de aprender coisas novas e me aprimorar constantemente como desenvolvedor!
+</p>
 
-[![Lucas Guerhardt's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-guerhardt&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guerhardt&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas-guerhardt&show_icons=true&theme=slateorange" alt="Lucas Guerhardt's GitHub stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guerhardt&layout=compact&theme=slateorange" alt="Top Langs" />
+  </a>
+</div>
+
 ##
 
 ### 🛠️ Tecnologias e Ferramentas  

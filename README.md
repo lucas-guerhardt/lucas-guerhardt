@@ -6,11 +6,11 @@
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas-guerhardt&show_icons=true&theme=slateorange" alt="Lucas Guerhardt's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas-guerhardt&show_icons=true&theme=monokai" alt="Lucas Guerhardt's GitHub stats" />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guerhardt&layout=compact&theme=slateorange" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-guerhardt&layout=compact&theme=monokai" alt="Top Langs" />
   </a>
 </div>
 

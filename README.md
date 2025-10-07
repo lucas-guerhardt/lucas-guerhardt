@@ -30,11 +30,11 @@
 
 <picture>
   <!-- Para o modo escuro -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-guerhardt/lucas-guerhardt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-guerhardt/profile/output/github-contribution-grid-snake-dark.svg">
   
   <!-- Para o modo claro -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-guerhardt/lucas-guerhardt/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-guerhardt/profile/output/github-contribution-grid-snake.svg">
   
   <!-- Imagem padrão, caso não haja correspondência com o esquema de cores -->
-  <img alt="Animação do grid de contribuições do GitHub" src="https://raw.githubusercontent.com/lucas-guerhardt/lucas-guerhardt/output/github-contribution-grid-snake.svg">
+  <img alt="Animação do grid de contribuições do GitHub" src="https://raw.githubusercontent.com/lucas-guerhardt/profile/output/github-contribution-grid-snake.svg">
 </picture>
